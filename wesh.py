@@ -61,5 +61,5 @@ async def on_message(message):
 
 # Ne pas oublier de traiter les commandes normalement
     await bot.process_commands(message)
-
+print("wesh c'est Jacquo y'a un truc qui me gratte ")
 bot.run(DISCORD_TOKEN)
