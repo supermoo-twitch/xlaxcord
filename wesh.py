@@ -56,7 +56,7 @@ async def on_message(message):
                     await message.channel.send(reply)
         except Exception as e:
             await message.channel.send("Wesh ! C'est Xlaps, y'a eu un bugch réessaye plus tard gro !")
-            print("ca a crash gro")
+            print("waaaaaaaaaillle")
 
 
 # Ne pas oublier de traiter les commandes normalement
