@@ -13,7 +13,7 @@ OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 XLAXIEN = os.getenv('XLAXIEN')
 # Remplacez 'USER_ID_SPECIFIQUE' par l'ID de l'utilisateur auquel vous souhaitez que le bot réponde
 USER_ID_SPECIFIQUE = "1280421470987878410"
-USER_DYNO = "155149108183695360" # Exemple : "123456789012345678"
+USER_DYNO = "1282242159080243286" # Exemple : "123456789012345678"
 mymessage=[]
 mymessage.append({"role": "system","content": XLAXIEN})
 intents = discord.Intents.all()
